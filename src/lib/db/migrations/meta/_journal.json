@@ -8,6 +8,27 @@
       "when": 1762368211239,
       "tag": "0000_redundant_wildside",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1762796983602,
+      "tag": "0001_lucky_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1762799108528,
+      "tag": "0002_cooing_mockingbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1762804345850,
+      "tag": "0003_bitter_penance",
+      "breakpoints": true
     }
   ]
 }
